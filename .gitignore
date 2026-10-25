@@ -1,0 +1,4 @@
+.env
+.venv/
+__pycache__/
+AWS VPC Architecture and Traffic Flow Diagram.png
